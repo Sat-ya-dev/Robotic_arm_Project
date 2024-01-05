@@ -1,2 +1,2 @@
 # Robotic_arm_Project
-Making letter M using 2-link Robotic Arm. I plotted the area covered by the arm using scatter plot in python
+I have successfully implemented the initial stages of my project, which involves using a 2-link robotic arm to create the letter 'M'. I utilized a scatter plot in Python to visualize the arm's coverage area, then manually selected points within that area to form the letter 'M.' Subsequently, I generated corresponding angles for each point, which will be fed into the two servo motors through Arduino Uno code.
